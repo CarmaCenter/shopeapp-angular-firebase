@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+.bg-red{
+color: red;
+}
+.container{
+margin: auto;
+width: 80%;
+text-align: center;
+}
+a{
+text-decoration: none;
+margin: 5px;
+color: bisque;
+}
+.home-content{
+text-align: center;
+}
